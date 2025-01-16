@@ -1,5 +1,5 @@
 Developed a power BI dashboard as a assignment for a firm
-Feastures of the dashboard were as follows:-
+Features of the dashboard were as follows:-
 1. Total Customers of our Bank- Use scorecard
 2. Most Wealthy Customer of our bank on the basis of balance.-Use Scorecard
 3. How many customers are male and how many are female- Use Pie Chart
